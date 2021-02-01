@@ -1,0 +1,106 @@
+.name {
+    text-align: center;
+    margin-top: 100px;
+    color: #fff;
+    font-family: san-serif;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 95px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.quotes{
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+	color:#fff;
+	font-family: san-serif;
+	border-radius: 50px;
+	text-align: center
+	
+}
+
+.person{
+	margin-top: 1%;
+	margin-left:16%;
+	width:68%;
+	min-height: 950px;
+	background: rgba(255, 255, 255, 0.2);
+	backdrop-filter: blur(5px);
+	border-radius: 20px;
+}
+.imag{
+	float: left;
+	margin-top: 30px;
+	margin:15px;
+	margin-right:50px;
+	
+	border-radius:35px;
+	
+}
+.sentence{
+    /*width:1000px;*/
+    padding:1%;
+	font-size: 20px;
+    text-align: justify;
+}
+
+.schools{
+	margin-left:400px;
+	font-size: 30px;
+}
+.table{
+	font-size: 25px;
+}
+
+.person ul {
+	/*float: left;*/
+    text-align: center;
+	
+}
+.others{
+	margin-top: 50px;
+}
+.others ul{
+	margin: 20px;
+	padding: 10px 10px;
+	width: 100%;
+	position: fixed;
+	display: block;
+}
+.others ul li{
+	list-style:none;
+	padding: 25px 20px;
+	margin-left: 50px;
+	border: 0px solid grey;
+}
+.others ul li a{
+	color: #FBDC39;
+	font-size: 26px;
+	text-decoration:none;
+	font-style: bold;
+}
+.others ul li a:hover{
+	background: rgba(255, 255, 255, 0.2);
+	backdrop-filter: blur(5px);
+	border-radius: 25px;
+	color: black;
+	font-size:35px;
+	text-decoration:none;
+	font-style: bold;
+}
+.person ul li{
+	list-style-type:none;
+	display: inline-block;
+	padding: 12px;
+	margin-left: 45px;
+	padding: 30px;
+	margin-top:55px;
+	color:#fff;
+    z-index: 100;
+
+}
+.person img:hover{
+	transform: translateY(-40px);
+}

@@ -1,0 +1,89 @@
+.we{
+	width:16%;
+	background: rgba(255, 255, 255, 0.2);
+	backdrop-filter: blur(10px);
+	height: auto;
+	padding: 1%;
+	text-align: center;
+	margin-top: 70px;
+	
+	float: left;
+	margin-left: 5%;
+	color:#fff;
+	font-family: san-serif;
+	border-radius: 50px;
+	margin-bottom:20px;
+}
+.winmachines h1{
+	align:center;
+	margin-left: 3%;
+}
+.we img{
+	border-radius: 50%;
+}
+.we h1{
+	margin-top: 15px;
+	font-size: 40px;
+	font-weight: bolder;
+	color:#fff;
+
+
+}
+.profession{
+	margin-top: 2%;
+	color:#fff;
+
+	font-size: 25px;
+	font-style: bold;
+}
+.shortintro{
+	color:#fff;
+
+	margin-top: 15px;
+	text-align: justify;
+}
+.we ul {
+	float: left;
+	
+}
+.we ul li{
+	list-style-type:none;
+	display: inline-block;
+	padding: 10px;
+	margin-left: 5px;
+	color:#fff;
+
+}
+.we a{
+	text-decoration: none;
+
+}
+.readmore{
+	color: blue;
+}
+.quotes{
+	width: 80%;
+	margin-top: 10px;
+	text-align: justify;
+	margin-right: 19px;
+	margin-left: 9%;
+	line-height: 30px;
+	text-indent: 30px;
+	font-size:24px;
+	font-family: san-serif;
+	background: rgba(255, 255, 255, 0.2);
+	backdrop-filter: blur(5px);
+	border-radius: 25px;
+}
+.quote{
+	background: rgba(255, 255, 255, 0.2);
+	backdrop-filter: blur(18px);
+	color: red;
+	font-style: italic;
+}
+.we:hover{
+	transform: translateY(-50px);
+}
+.we img:hover{
+	transform: translateY(-40px);
+}

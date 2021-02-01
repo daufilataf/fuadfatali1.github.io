@@ -1,0 +1,94 @@
+.winmachines h2{
+	font-size: 70px;
+	font-style:italic;
+	font-weight: bold;
+}
+.ada{
+	
+	margin: 70px;
+	text-align: center;
+	text-align: justify;
+
+}
+.site{
+	font-size: 50px;
+	width: 780px;
+}
+.site:hover{
+	transform: translateX(40px);
+}
+.first{
+
+	font-size: 25px;
+	font-family: times;
+}
+.sitenums img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.sitenums{
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+	margin: 5px;
+	padding: 50px;
+	margin-left: 30%;
+
+	
+}
+.sitenums p{
+	font-size: 60px;
+	margin-left: 60px;
+	text-align: center;
+	color: red;
+	font-style: bold;
+	margin-top: 5px;
+}
+.sitenums img:hover{
+	transform: translateY(-40px);
+}
+.sitenums p:hover{
+	transform: translateY(-40px);
+}
+.programs h2{
+	font-size: 70px;
+	font-style:italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+.table1{
+	text-align: center;
+	margin-left: 500px;
+	margin-top: 50px;
+	font-size: 25px;
+	font-family: times;
+}
+.table1 a{
+	text-decoration: none;
+	text-align: center;
+	font-family: Arial;
+	color:red;
+	margin-top: 5px;
+	font-weight: bold;
+}
+.table1 a:hover{
+	font-style: italic;
+	color: blue;
+	font-size: 50px;
+}
+.read{
+	text-decoration: none;
+	font-size: 50px;
+	text-align: center;
+	font-family: Arial;
+	color:red;
+	margin-top: 5px;
+	font-weight: bold;
+}
+.read:hover{
+	font-style: italic;
+	color: blue;
+	font-size: 100px;	
+}
